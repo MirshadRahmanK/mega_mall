@@ -1,0 +1,1 @@
+String appTittle = 'Mega Mall';
